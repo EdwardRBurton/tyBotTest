@@ -1,1 +1,3 @@
 Django~=3.0.7
+
+$ pa_autoconfigure_django.py --python=3.6 https://github.com/EdwardRBurton/tyBotTest.git
